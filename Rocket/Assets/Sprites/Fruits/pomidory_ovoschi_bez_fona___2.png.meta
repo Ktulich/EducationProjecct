@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 5534e486d74404db0b8c4fa4aeedd0e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9218579942142245852
+    second: pomidory_ovoschi_bez_fona___2_0
+  - first:
+      213: 2148356909990144874
+    second: pomidory_ovoschi_bez_fona___2_1
+  - first:
+      213: -7343972425654776893
+    second: pomidory_ovoschi_bez_fona___2_2
+  - first:
+      213: 5499913206897930355
+    second: pomidory_ovoschi_bez_fona___2_3
+  - first:
+      213: 4676890820059050758
+    second: pomidory_ovoschi_bez_fona___2_4
+  - first:
+      213: 835837121737048994
+    second: pomidory_ovoschi_bez_fona___2_5
+  - first:
+      213: -7336414075129978452
+    second: pomidory_ovoschi_bez_fona___2_6
+  - first:
+      213: 1299061775582151688
+    second: pomidory_ovoschi_bez_fona___2_7
+  - first:
+      213: 2685607217157629330
+    second: pomidory_ovoschi_bez_fona___2_8
+  - first:
+      213: 6431807086609567588
+    second: pomidory_ovoschi_bez_fona___2_9
+  - first:
+      213: 5044288960043407177
+    second: pomidory_ovoschi_bez_fona___2_10
+  - first:
+      213: 208466458486934447
+    second: pomidory_ovoschi_bez_fona___2_11
+  - first:
+      213: -4153170153447149538
+    second: pomidory_ovoschi_bez_fona___2_12
+  - first:
+      213: 6616048117761127624
+    second: pomidory_ovoschi_bez_fona___2_13
+  - first:
+      213: 376818458820427216
+    second: pomidory_ovoschi_bez_fona___2_14
+  - first:
+      213: -2957844695444849331
+    second: pomidory_ovoschi_bez_fona___2_15
+  - first:
+      213: -2033646075542857821
+    second: pomidory_ovoschi_bez_fona___2_16
+  - first:
+      213: -2214825273536331186
+    second: pomidory_ovoschi_bez_fona___2_17
+  - first:
+      213: -2523682244688290468
+    second: pomidory_ovoschi_bez_fona___2_18
+  - first:
+      213: -6162109703712352947
+    second: pomidory_ovoschi_bez_fona___2_19
+  - first:
+      213: -8809379387870255073
+    second: pomidory_ovoschi_bez_fona___2_20
+  - first:
+      213: 972415189883301135
+    second: pomidory_ovoschi_bez_fona___2_21
+  - first:
+      213: -9067727945976254018
+    second: pomidory_ovoschi_bez_fona___2_22
+  - first:
+      213: -6293069933780230960
+    second: pomidory_ovoschi_bez_fona___2_23
+  - first:
+      213: 5746624461164953183
+    second: pomidory_ovoschi_bez_fona___2_24
+  - first:
+      213: 4646492483561096799
+    second: pomidory_ovoschi_bez_fona___2_25
+  - first:
+      213: 9209225285213959599
+    second: pomidory_ovoschi_bez_fona___2_26
+  - first:
+      213: -5808635456465420937
+    second: pomidory_ovoschi_bez_fona___2_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 554
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbfde08d99feef70800000000000000
+      internalID: 9218579942142245852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 554
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be7b62a3f70dd10800000000000000
+      internalID: 2148356909990144874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 554
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb45982df7f41a90800000000000000
+      internalID: -7343972425654776893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 558
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37071a00ced935c40800000000000000
+      internalID: 5499913206897930355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 524
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603b7eeeb67a7e040800000000000000
+      internalID: 4676890820059050758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 525
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3c83b0f6d799b00800000000000000
+      internalID: 835837121737048994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a3b6c442df2a90800000000000000
+      internalID: -7336414075129978452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 528
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ccda5dc1370210800000000000000
+      internalID: 1299061775582151688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 530
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e7e8f881354520800000000000000
+      internalID: 2685607217157629330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 487
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0435d77e524950800000000000000
+      internalID: 6431807086609567588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 491
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947dfc7551ae00640800000000000000
+      internalID: 5044288960043407177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 492
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab82b5b32f94e200800000000000000
+      internalID: 208466458486934447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 491
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103708ffb9fc56c0800000000000000
+      internalID: -4153170153447149538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 457
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43b04b5bce0db50800000000000000
+      internalID: 6616048117761127624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 460
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3dce446aba3500800000000000000
+      internalID: 376818458820427216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 462
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7c3bbbef93f6d0800000000000000
+      internalID: -2957844695444849331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 420
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a796644ba907c3e0800000000000000
+      internalID: -2033646075542857821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 421
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424f4bf52c5341e0800000000000000
+      internalID: -2214825273536331186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 423
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd4679e541afcd0800000000000000
+      internalID: -2523682244688290468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 423
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45dc3b6fd9cb7aa0800000000000000
+      internalID: -6162109703712352947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18685eee1cceb580800000000000000
+      internalID: -8809379387870255073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 398
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d203f8676be7d00800000000000000
+      internalID: 972415189883301135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 396
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1f33cd975f82280800000000000000
+      internalID: -9067727945976254018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9652cc368aa8a0800000000000000
+      internalID: -6293069933780230960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 363
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ebe41208c10cf40800000000000000
+      internalID: 5746624461164953183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 362
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f568e2eab48ab7040800000000000000
+      internalID: 4646492483561096799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa539b5ba9dbdcf70800000000000000
+      internalID: 9209225285213959599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pomidory_ovoschi_bez_fona___2_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 320
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db3abe3d4936fa0800000000000000
+      internalID: -5808635456465420937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pomidory_ovoschi_bez_fona___2_0: 9218579942142245852
+      pomidory_ovoschi_bez_fona___2_1: 2148356909990144874
+      pomidory_ovoschi_bez_fona___2_10: 5044288960043407177
+      pomidory_ovoschi_bez_fona___2_11: 208466458486934447
+      pomidory_ovoschi_bez_fona___2_12: -4153170153447149538
+      pomidory_ovoschi_bez_fona___2_13: 6616048117761127624
+      pomidory_ovoschi_bez_fona___2_14: 376818458820427216
+      pomidory_ovoschi_bez_fona___2_15: -2957844695444849331
+      pomidory_ovoschi_bez_fona___2_16: -2033646075542857821
+      pomidory_ovoschi_bez_fona___2_17: -2214825273536331186
+      pomidory_ovoschi_bez_fona___2_18: -2523682244688290468
+      pomidory_ovoschi_bez_fona___2_19: -6162109703712352947
+      pomidory_ovoschi_bez_fona___2_2: -7343972425654776893
+      pomidory_ovoschi_bez_fona___2_20: -8809379387870255073
+      pomidory_ovoschi_bez_fona___2_21: 972415189883301135
+      pomidory_ovoschi_bez_fona___2_22: -9067727945976254018
+      pomidory_ovoschi_bez_fona___2_23: -6293069933780230960
+      pomidory_ovoschi_bez_fona___2_24: 5746624461164953183
+      pomidory_ovoschi_bez_fona___2_25: 4646492483561096799
+      pomidory_ovoschi_bez_fona___2_26: 9209225285213959599
+      pomidory_ovoschi_bez_fona___2_27: -5808635456465420937
+      pomidory_ovoschi_bez_fona___2_3: 5499913206897930355
+      pomidory_ovoschi_bez_fona___2_4: 4676890820059050758
+      pomidory_ovoschi_bez_fona___2_5: 835837121737048994
+      pomidory_ovoschi_bez_fona___2_6: -7336414075129978452
+      pomidory_ovoschi_bez_fona___2_7: 1299061775582151688
+      pomidory_ovoschi_bez_fona___2_8: 2685607217157629330
+      pomidory_ovoschi_bez_fona___2_9: 6431807086609567588
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

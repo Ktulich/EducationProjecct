@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 8d4495dce88a641d8a7262417b4883c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4404781238119701326
+    second: POVAR_0
+  - first:
+      213: 4305005763429233471
+    second: POVAR_1
+  - first:
+      213: -4360688488986575495
+    second: POVAR_2
+  - first:
+      213: -8605660026812200164
+    second: POVAR_3
+  - first:
+      213: -1481408143599321443
+    second: POVAR_4
+  - first:
+      213: -999858294894811403
+    second: POVAR_5
+  - first:
+      213: 364468031277247451
+    second: POVAR_6
+  - first:
+      213: -601934732876872752
+    second: POVAR_7
+  - first:
+      213: -7266146225020255717
+    second: POVAR_8
+  - first:
+      213: 8765434000901261465
+    second: POVAR_9
+  - first:
+      213: 5007589391205747818
+    second: POVAR_10
+  - first:
+      213: -5990965360454206329
+    second: POVAR_11
+  - first:
+      213: 3430173053217534432
+    second: POVAR_12
+  - first:
+      213: -4472479575914089125
+    second: POVAR_13
+  - first:
+      213: -3785777062428767412
+    second: POVAR_14
+  - first:
+      213: 7018392490703358807
+    second: POVAR_15
+  - first:
+      213: 4762786484618688573
+    second: POVAR_16
+  - first:
+      213: 3418404659781711418
+    second: POVAR_17
+  - first:
+      213: 4742043665331601979
+    second: POVAR_18
+  - first:
+      213: -2610719536171420373
+    second: POVAR_19
+  - first:
+      213: 1201187542953365425
+    second: POVAR_20
+  - first:
+      213: 1453448608745721737
+    second: POVAR_21
+  - first:
+      213: -6224091053619046544
+    second: POVAR_22
+  - first:
+      213: -787904997187257469
+    second: POVAR_23
+  - first:
+      213: -6746635816095394546
+    second: POVAR_24
+  - first:
+      213: 7584010247478339787
+    second: POVAR_25
+  - first:
+      213: -2040542415461823557
+    second: POVAR_26
+  - first:
+      213: -2349402134383177716
+    second: POVAR_27
+  - first:
+      213: -2878607785767488972
+    second: POVAR_28
+  - first:
+      213: 1088365354270123319
+    second: POVAR_29
+  - first:
+      213: -7356753110866923796
+    second: POVAR_30
+  - first:
+      213: -3724246976881447191
+    second: POVAR_31
+  - first:
+      213: 5600074522110499354
+    second: POVAR_32
+  - first:
+      213: 3811196010141905934
+    second: POVAR_33
+  - first:
+      213: -4795067478605856089
+    second: POVAR_34
+  - first:
+      213: -2346297439594005793
+    second: POVAR_35
+  - first:
+      213: 3624843971312323792
+    second: POVAR_36
+  - first:
+      213: -7987987747529141020
+    second: POVAR_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POVAR_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e19c2dc21fd2c0800000000000000
+      internalID: -4404781238119701326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337535dee37ebb30800000000000000
+      internalID: 4305005763429233471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df1d55ce8bb73c0800000000000000
+      internalID: -4360688488986575495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8414eccd829880800000000000000
+      internalID: -8605660026812200164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e3469642bf07be0800000000000000
+      internalID: -1481408143599321443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f62113ad2acf12f0800000000000000
+      internalID: -999858294894811403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb24405eb9de0500800000000000000
+      internalID: 364468031277247451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d387e4bc8f75a7f0800000000000000
+      internalID: -601934732876872752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 58
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124f9b8186792b90800000000000000
+      internalID: -7266146225020255717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 58
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c9d558c315a970800000000000000
+      internalID: 8765434000901261465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c45db15088e7540800000000000000
+      internalID: 5007589391205747818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf4740fb0dbdca0800000000000000
+      internalID: -5990965360454206329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f523d73c6a9f20800000000000000
+      internalID: 3430173053217534432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55737c958f8ee1c0800000000000000
+      internalID: -4472479575914089125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8c13d1d7367bc0800000000000000
+      internalID: -3785777062428767412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b84a609c6566160800000000000000
+      internalID: 7018392490703358807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d387abcc211d81240800000000000000
+      internalID: 4762786484618688573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 58
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3634d43dec907f20800000000000000
+      internalID: 3418404659781711418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324b75d69f1fc140800000000000000
+      internalID: 4742043665331601979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25745ef96cd4cbd0800000000000000
+      internalID: -2610719536171420373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf0c56c4b97ba010800000000000000
+      internalID: 1201187542953365425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f03971fcfab2410800000000000000
+      internalID: 1453448608745721737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779953d9269f99a0800000000000000
+      internalID: -6224091053619046544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 9
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf5ed549cc015f0800000000000000
+      internalID: -787904997187257469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d4b078722f52a0800000000000000
+      internalID: -6746635816095394546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86ed56321df3960800000000000000
+      internalID: 7584010247478339787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc7410c798ea3e0800000000000000
+      internalID: -2040542415461823557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00db89d43f356fd0800000000000000
+      internalID: -2349402134383177716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b7a968712d08d0800000000000000
+      internalID: -2878607785767488972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735ec17f586aa1f00800000000000000
+      internalID: 1088365354270123319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee68ef50097e990800000000000000
+      internalID: -7356753110866923796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea82f3b11d05cc0800000000000000
+      internalID: -3724246976881447191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9c1e7b1677bd40800000000000000
+      internalID: 5600074522110499354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f4e1249614e430800000000000000
+      internalID: 3811196010141905934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28ba7988f747db0800000000000000
+      internalID: -4795067478605856089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 9
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda379fe8e6407fd0800000000000000
+      internalID: -2346297439594005793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc894cf2680e4230800000000000000
+      internalID: 3624843971312323792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POVAR_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e45a5e3777f42190800000000000000
+      internalID: -7987987747529141020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      POVAR_0: -4404781238119701326
+      POVAR_1: 4305005763429233471
+      POVAR_10: 5007589391205747818
+      POVAR_11: -5990965360454206329
+      POVAR_12: 3430173053217534432
+      POVAR_13: -4472479575914089125
+      POVAR_14: -3785777062428767412
+      POVAR_15: 7018392490703358807
+      POVAR_16: 4762786484618688573
+      POVAR_17: 3418404659781711418
+      POVAR_18: 4742043665331601979
+      POVAR_19: -2610719536171420373
+      POVAR_2: -4360688488986575495
+      POVAR_20: 1201187542953365425
+      POVAR_21: 1453448608745721737
+      POVAR_22: -6224091053619046544
+      POVAR_23: -787904997187257469
+      POVAR_24: -6746635816095394546
+      POVAR_25: 7584010247478339787
+      POVAR_26: -2040542415461823557
+      POVAR_27: -2349402134383177716
+      POVAR_28: -2878607785767488972
+      POVAR_29: 1088365354270123319
+      POVAR_3: -8605660026812200164
+      POVAR_30: -7356753110866923796
+      POVAR_31: -3724246976881447191
+      POVAR_32: 5600074522110499354
+      POVAR_33: 3811196010141905934
+      POVAR_34: -4795067478605856089
+      POVAR_35: -2346297439594005793
+      POVAR_36: 3624843971312323792
+      POVAR_37: -7987987747529141020
+      POVAR_4: -1481408143599321443
+      POVAR_5: -999858294894811403
+      POVAR_6: 364468031277247451
+      POVAR_7: -601934732876872752
+      POVAR_8: -7266146225020255717
+      POVAR_9: 8765434000901261465
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

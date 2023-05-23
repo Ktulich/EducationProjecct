@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 633a7dca40f7e4206ba1753748962d73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7544736233196403878
+    second: vot_takoe_testo_0
+  - first:
+      213: -2290942954610482702
+    second: vot_takoe_testo_1
+  - first:
+      213: 3319192728957357420
+    second: vot_takoe_testo_2
+  - first:
+      213: 1807621113856389873
+    second: vot_takoe_testo_3
+  - first:
+      213: -1542424123020794597
+    second: vot_takoe_testo_4
+  - first:
+      213: 8611057323918902713
+    second: vot_takoe_testo_5
+  - first:
+      213: 6513964084439328506
+    second: vot_takoe_testo_6
+  - first:
+      213: -4091183817125686268
+    second: vot_takoe_testo_7
+  - first:
+      213: -5931076841317595276
+    second: vot_takoe_testo_8
+  - first:
+      213: -8756860749395132855
+    second: vot_takoe_testo_9
+  - first:
+      213: -6049002595186043011
+    second: vot_takoe_testo_10
+  - first:
+      213: -7131523016914242232
+    second: vot_takoe_testo_11
+  - first:
+      213: 3786068046072094943
+    second: vot_takoe_testo_12
+  - first:
+      213: 5911452692616708562
+    second: vot_takoe_testo_13
+  - first:
+      213: 3257226282612489011
+    second: vot_takoe_testo_14
+  - first:
+      213: -4473383566872257652
+    second: vot_takoe_testo_15
+  - first:
+      213: -6029113875937141198
+    second: vot_takoe_testo_16
+  - first:
+      213: 1999409252429662997
+    second: vot_takoe_testo_17
+  - first:
+      213: 6348341868210677471
+    second: vot_takoe_testo_18
+  - first:
+      213: -2552002279879205574
+    second: vot_takoe_testo_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vot_takoe_testo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 241
+        width: 720
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acb0bf51a944b860800000000000000
+      internalID: 7544736233196403878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f122cd458fe430e0800000000000000
+      internalID: -2290942954610482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 173
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d009e7334201e20800000000000000
+      internalID: 3319192728957357420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 173
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f7eb63d5f51910800000000000000
+      internalID: 1807621113856389873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 173
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152a56ae65389ae0800000000000000
+      internalID: -1542424123020794597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 173
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b546b4430f908770800000000000000
+      internalID: 8611057323918902713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 189
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a8a482df366a50800000000000000
+      internalID: 6513964084439328506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 189
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404956d8ef13937c0800000000000000
+      internalID: -4091183817125686268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 162
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47708b9790590bda0800000000000000
+      internalID: -5931076841317595276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 162
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94efdb45b81697680800000000000000
+      internalID: -8756860749395132855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 148
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77158c4030ad0ca0800000000000000
+      internalID: -6049002595186043011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 123
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fd4db99db70d90800000000000000
+      internalID: -7131523016914242232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 77
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a59514d0da8430800000000000000
+      internalID: 3786068046072094943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 77
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d102f957e2b90250800000000000000
+      internalID: 5911452692616708562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bfe28eb0ef33d20800000000000000
+      internalID: 3257226282612489011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5280d8595be1c0800000000000000
+      internalID: -4473383566872257652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e536a9fd8445ca0800000000000000
+      internalID: -6029113875937141198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b03bb2f145fbb10800000000000000
+      internalID: 1999409252429662997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ef6f4b47d91850800000000000000
+      internalID: 6348341868210677471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vot_takoe_testo_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d10d19277759cd0800000000000000
+      internalID: -2552002279879205574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vot_takoe_testo_0: 7544736233196403878
+      vot_takoe_testo_1: -2290942954610482702
+      vot_takoe_testo_10: -6049002595186043011
+      vot_takoe_testo_11: -7131523016914242232
+      vot_takoe_testo_12: 3786068046072094943
+      vot_takoe_testo_13: 5911452692616708562
+      vot_takoe_testo_14: 3257226282612489011
+      vot_takoe_testo_15: -4473383566872257652
+      vot_takoe_testo_16: -6029113875937141198
+      vot_takoe_testo_17: 1999409252429662997
+      vot_takoe_testo_18: 6348341868210677471
+      vot_takoe_testo_19: -2552002279879205574
+      vot_takoe_testo_2: 3319192728957357420
+      vot_takoe_testo_3: 1807621113856389873
+      vot_takoe_testo_4: -1542424123020794597
+      vot_takoe_testo_5: 8611057323918902713
+      vot_takoe_testo_6: 6513964084439328506
+      vot_takoe_testo_7: -4091183817125686268
+      vot_takoe_testo_8: -5931076841317595276
+      vot_takoe_testo_9: -8756860749395132855
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

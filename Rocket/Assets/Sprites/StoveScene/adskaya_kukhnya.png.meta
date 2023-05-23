@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 211a1967ed2b241cba4e38881542d76e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1279403060584493954
+    second: adskaya_kukhnya_0
+  - first:
+      213: 7654835763412671885
+    second: adskaya_kukhnya_1
+  - first:
+      213: 1950434996746113937
+    second: adskaya_kukhnya_2
+  - first:
+      213: 796090743000769222
+    second: adskaya_kukhnya_3
+  - first:
+      213: -6219926744474410197
+    second: adskaya_kukhnya_4
+  - first:
+      213: -7579595193762035130
+    second: adskaya_kukhnya_5
+  - first:
+      213: -4380181614760268309
+    second: adskaya_kukhnya_6
+  - first:
+      213: -6637343931879844171
+    second: adskaya_kukhnya_7
+  - first:
+      213: -8746027969897756420
+    second: adskaya_kukhnya_8
+  - first:
+      213: 7354848046659243988
+    second: adskaya_kukhnya_9
+  - first:
+      213: -4793899067964965415
+    second: adskaya_kukhnya_10
+  - first:
+      213: 3955329612246835800
+    second: adskaya_kukhnya_11
+  - first:
+      213: 9049612256016007605
+    second: adskaya_kukhnya_12
+  - first:
+      213: 7655773443585894924
+    second: adskaya_kukhnya_13
+  - first:
+      213: -8852819327853343816
+    second: adskaya_kukhnya_14
+  - first:
+      213: -6335761875049655537
+    second: adskaya_kukhnya_15
+  - first:
+      213: 6180207299208976827
+    second: adskaya_kukhnya_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adskaya_kukhnya_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283bfa61e4a51c110800000000000000
+      internalID: 1279403060584493954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 199
+        width: 164
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1b2cd1907b3a60800000000000000
+      internalID: 7654835763412671885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193da82bb46511b10800000000000000
+      internalID: 1950434996746113937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 115
+        width: 164
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a98910584c0b00800000000000000
+      internalID: 796090743000769222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 74
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23a6aa94916ea9a0800000000000000
+      internalID: -6219926744474410197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 74
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a4e86645edfc690800000000000000
+      internalID: -7579595193762035130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 74
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed648057087633c0800000000000000
+      internalID: -4380181614760268309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 74
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b615303cda63e3a0800000000000000
+      internalID: -6637343931879844171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 33
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80d9a56eddf9680800000000000000
+      internalID: -8746027969897756420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 33
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df891ea45ba11660800000000000000
+      internalID: 7354848046659243988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 33
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3fd46236a87db0800000000000000
+      internalID: -4793899067964965415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 33
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526e8b735724e630800000000000000
+      internalID: 3955329612246835800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10bd2666ea69d70800000000000000
+      internalID: 9049612256016007605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6ec98265ce3a60800000000000000
+      internalID: 7655773443585894924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc69eb9b7742580800000000000000
+      internalID: -8852819327853343816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 28
+        width: 4
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d338942ad218a0800000000000000
+      internalID: -6335761875049655537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adskaya_kukhnya_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 23
+        width: 1
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb990a36bc184c550800000000000000
+      internalID: 6180207299208976827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      adskaya_kukhnya_0: 1279403060584493954
+      adskaya_kukhnya_1: 7654835763412671885
+      adskaya_kukhnya_10: -4793899067964965415
+      adskaya_kukhnya_11: 3955329612246835800
+      adskaya_kukhnya_12: 9049612256016007605
+      adskaya_kukhnya_13: 7655773443585894924
+      adskaya_kukhnya_14: -8852819327853343816
+      adskaya_kukhnya_15: -6335761875049655537
+      adskaya_kukhnya_16: 6180207299208976827
+      adskaya_kukhnya_2: 1950434996746113937
+      adskaya_kukhnya_3: 796090743000769222
+      adskaya_kukhnya_4: -6219926744474410197
+      adskaya_kukhnya_5: -7579595193762035130
+      adskaya_kukhnya_6: -4380181614760268309
+      adskaya_kukhnya_7: -6637343931879844171
+      adskaya_kukhnya_8: -8746027969897756420
+      adskaya_kukhnya_9: 7354848046659243988
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

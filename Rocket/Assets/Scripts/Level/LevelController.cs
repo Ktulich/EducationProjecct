@@ -28,7 +28,7 @@ public class LevelController : MonoBehaviour
     {
         //_index = GlobalLevelController.Instance.GetIndex();
     }
-
+    
     public void FinishLevel()
     {
         if (_levelModel.loosed) return;
@@ -44,6 +44,16 @@ public class LevelController : MonoBehaviour
             ++_levelModel.starsCount;
 
         InformationAboutLevels.SetStarsCount(_index, _levelModel.starsCount);
+    }
+
+    public void LooseLevel()
+    {
+        if (!_levelModel.completed)
+        {
+            onLoose();
+            _levelModel.loosed = true;
+        }
+
     }
 
     public void CollectStar()

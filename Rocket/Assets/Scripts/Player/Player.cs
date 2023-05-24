@@ -109,7 +109,7 @@ public class Player : MonoBehaviour
 
         if (_hp <= 0)
         {
-            // Game Over Scene starting here
+            LevelController.Instance.LooseLevel();
         }
     }
     public int HpCount()

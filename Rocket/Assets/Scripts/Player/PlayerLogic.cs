@@ -63,9 +63,4 @@ public class PlayerLogic : MonoBehaviour
             e.SetPlayer(this);
         }
     }
-
-    void Update()
-    {
-        
-    }
 }

@@ -8,8 +8,8 @@ public class UIEvents : MonoBehaviour
 {
     public static UIEvents Instance;
 
-    public event Action StartAccelerateEvent;
-    public event Action StopAccelerateEvent;
+    public event Action StartAccelerateEvent = delegate {};
+    public event Action StopAccelerateEvent = delegate {};
     public delegate void TurnDelegate(int dir);
     public event TurnDelegate TurnEvent = delegate { };
 

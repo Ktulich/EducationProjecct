@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class TurboEngine : BaseEngine
 {
-    [SerializeField] private float waste;
+    [SerializeField]
+    float waste;
 
     public override void Accelerate(bool isAccel)
     {

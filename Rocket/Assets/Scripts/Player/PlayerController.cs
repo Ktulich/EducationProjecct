@@ -15,14 +15,15 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        /*UIEvents.Instance.StartAccelerateEvent += StartAcceleration;
+        UIEvents.Instance.StartAccelerateEvent += StartAcceleration;
         UIEvents.Instance.StopAccelerateEvent += FinishAcceleration;
-        UIEvents.Instance.TurnEvent += Turn;*/
+        UIEvents.Instance.TurnEvent += Turn;
     }
 
     void FixedUpdate()
     {
-        _isAñcel = Input.GetKey(KeyCode.W);
+#if UNITY_EDITOR
+        /*_isAñcel = Input.GetKey(KeyCode.W);
         if (Input.GetKey(KeyCode.A))
         {
             _turnDirection = -1;
@@ -34,11 +35,12 @@ public class PlayerController : MonoBehaviour
         else
         {
             _turnDirection = 0;
-        }
+        }*/
+#endif
 
 
-        PlayerLogic.Instance.Turn(_turnDirection);
         PlayerLogic.Instance.Accelerate(_isAñcel);
+        PlayerLogic.Instance.Turn(_turnDirection);
     }
 
     bool dontUsed;
@@ -47,22 +49,22 @@ public class PlayerController : MonoBehaviour
     private void StartAcceleration()
     {
         _isAñcel = true;
-        /*if (!_engineSound.isPlaying) _engineSound.Play();
-        dontUsed = false;*/
+        if (!_engineSound.isPlaying) _engineSound.Play();
+        dontUsed = false;
     }
 
     private void FinishAcceleration()
     {
         _isAñcel = false;
-        /*dontUsed = true;
-        StartCoroutine(StopEngineSound(++num));*/
+        dontUsed = true;
+        StartCoroutine(StopEngineSound(++num));
     }
 
-    /*IEnumerator StopEngineSound(int n)
+    IEnumerator StopEngineSound(int n)
     {
         yield return new WaitForSeconds(_engineStop);
         if (n == num && dontUsed) _engineSound.Stop();
-    }*/
+    }
 
     private void Turn(int direction)
     {

@@ -5,7 +5,7 @@ using UnityEngine;
 public abstract class BaseEngine : MonoBehaviour
 {
     [SerializeField]
-    protected float a_power = 1f;
+    protected float a_power = 1;
     protected PlayerLogic a_player;
     protected Rigidbody2D a_rigidBody;
     public bool isAccelerate;
@@ -18,8 +18,6 @@ public abstract class BaseEngine : MonoBehaviour
 
     public virtual void Accelerate(bool isAccel)
     {
-        Debug.Log(transform.up * a_power * Time.deltaTime);
-        Debug.Log(transform.position);
         if (isAccel)
             a_rigidBody.AddForceAtPosition(transform.up * a_power * Time.deltaTime, transform.position);
 

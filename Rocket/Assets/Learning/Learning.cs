@@ -25,8 +25,8 @@ public class Learning : MonoBehaviour
     {
         if (_currentSlide < _slides.Count)
         {
-            Time.timeScale = 0;
-            _slides[_currentSlide].SetActive(true);
+            Time.timeScale = 1;
+            _slides[_currentSlide++].SetActive(false);
         }
     }
 

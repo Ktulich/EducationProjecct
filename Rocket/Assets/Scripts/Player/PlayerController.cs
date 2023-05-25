@@ -23,19 +23,13 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
 #if UNITY_EDITOR
-        /*_isAñcel = Input.GetKey(KeyCode.W);
-        if (Input.GetKey(KeyCode.A))
-        {
+        _isAñcel = Input.GetButton("Vertical");
+        if (Input.GetKey(KeyCode.LeftArrow))
             _turnDirection = -1;
-        }
-        else if (Input.GetKey(KeyCode.D))
-        {
+        else if (Input.GetKey(KeyCode.RightArrow))
             _turnDirection = 1;
-        }
         else
-        {
             _turnDirection = 0;
-        }*/
 #endif
 
 

@@ -1,26 +1,9 @@
-using UnityEngine;
-#if UNITY_EDITOR
+using System.Collections;
+using System.Collections.Generic;
 using UnityEditor;
-#endif
-[System.Serializable]
-public class SceneField
-{
-    [SerializeField]
-    private Object m_SceneAsset;
-    [SerializeField]
-    private string m_SceneName = "";
-    public string SceneName
-    {
-        get { return m_SceneName; }
-    }
-    public static implicit operator string(SceneField sceneField)
-    {
-        return sceneField.SceneName;
-    }
+using UnityEngine;
 
-}
-#if UNITY_EDITOR
-[CustomPropertyDrawer(typeof(SceneField))]
+/*[CustomPropertyDrawer(typeof(SceneField))]
 public class SceneFieldPropertyDrawer : PropertyDrawer
 {
     public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
@@ -40,4 +23,4 @@ public class SceneFieldPropertyDrawer : PropertyDrawer
         EditorGUI.EndProperty();
     }
 }
-#endif
+*/

@@ -47,20 +47,21 @@ public class LevelTimer : MonoBehaviour
         if (HasTime())
         {
             var rot = _arrow.transform.eulerAngles;
-            rot.z = TimeAge10() * 360;
+            rot.z = TimeAgo10() * 360;
             _arrow.transform.eulerAngles = rot;
         }
         else
         {
             Stop();
-            var rot = _arrow.transform.eulerAngles; rot.z = 0;
+            var rot = _arrow.transform.eulerAngles;
+            rot.z = 0;
             _arrow.transform.eulerAngles = rot;
             _timer.sprite = _timerWaste;
             _arrow.sprite = _arrowWaste;
         }
     }
 
-    float TimeAge10()
+    float TimeAgo10()
     {
         return _currentTime / _maxTime;
     }

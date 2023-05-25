@@ -10,7 +10,7 @@ public class GlobalLevelController : MonoBehaviour
     [SerializeField]
     List<SceneField> _levels;
 
-    private void Awake()
+    void Awake()
     {
         if (Instance == null)
         {

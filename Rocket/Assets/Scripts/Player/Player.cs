@@ -38,9 +38,9 @@ public class Player : MonoBehaviour
     void Start()
     {
         _playerLogic = GetComponent<PlayerLogic>();
+        _maxFuelLevel = _rocket.FuelLevel;
         _fuelLevel = _maxFuelLevel;
         _maxHP = _rocket.HP;
-        _maxFuelLevel = _rocket.FuelLevel;
         _damageForce = _rocket.DamageForce;
         _damageTime = _rocket.DamageTime;
         _hp = _maxHP;

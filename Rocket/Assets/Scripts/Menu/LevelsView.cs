@@ -29,11 +29,9 @@ public class LevelsView : MonoBehaviour
         {
             _lock.SetActive(!opened);
             foreach (var s in _stars)
-            {
                 s.gameObject.SetActive(opened);
-            }
         }
-            
+
         int starsCount = InformationAboutLevels.GetStarsCount(index);
 
         Utility.ApplyStars(_stars, starsCount, _starSprite);

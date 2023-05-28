@@ -9,14 +9,15 @@ public class Menu : MonoBehaviour
     {
         LoadNewLevel(SceneManager.GetActiveScene().name);
     }
-    public void LoadNewLevel(string name)
-    {
-        LoadNewLevelStatic(name);
-    }
     public void LoadNewLevel(int num)
     {
         Time.timeScale = 1;
         SceneManager.LoadScene(num);
+    }
+
+    public void LoadNewLevel(string name)
+    {
+        LoadNewLevelStatic(name);
     }
 
     public static void LoadNewLevelStatic(string name)

@@ -8,8 +8,8 @@ public class Barrel : MonoBehaviour, IExpItem
     private float m_DistanceExp = 1f;
     [SerializeField]
     private float m_ForceExp = 100f;
-    /*[SerializeField]
-    GameObject m_ParticleExp = null;*/
+    [SerializeField]
+    GameObject m_ParticleExp = null;
     [SerializeField]
     private float _destroyTime = 0.1f;
     [SerializeField]
@@ -18,6 +18,7 @@ public class Barrel : MonoBehaviour, IExpItem
     private float _destroyProbality = 0.2f;
     [SerializeField]
     private Sprite _crashSprite = null;
+    [SerializeField] private AudioSource _explosionSound;
 
     private int m_Layer = 1 << 8;
     private bool _isDetonated = false;
@@ -62,6 +63,7 @@ public class Barrel : MonoBehaviour, IExpItem
 
         _isDetonated = true;
         StartCoroutine(Detonate());
+        if (_explosionSound != null) _explosionSound.Play();
 
     }
     public static void AddExplosionForce(Rigidbody2D rigidbody, float expForce, Vector3 expPosition, float expRadius)
@@ -76,5 +78,5 @@ public class Barrel : MonoBehaviour, IExpItem
 
 public interface IExpItem
 {
-
+    void Boom();
 }

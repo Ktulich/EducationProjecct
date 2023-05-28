@@ -26,9 +26,9 @@ public class LevelController : MonoBehaviour
 
     private void Start()
     {
-        //_index = GlobalLevelController.Instance.GetIndex();
+        _index = GlobalLevelController.Instance.GetIndex();
     }
-    
+
     public void FinishLevel()
     {
         if (_levelModel.loosed) return;
@@ -40,12 +40,16 @@ public class LevelController : MonoBehaviour
 
     void ApplyStars()
     {
-        if (LevelTimer.Instance.HasTime())
-            ++_levelModel.starsCount;
+        if (LevelTimer.Instance.HasTime()) ++_levelModel.starsCount;
 
         InformationAboutLevels.SetStarsCount(_index, _levelModel.starsCount);
     }
 
+    public void CollectStar()
+    {
+        onCollectStar();
+        _levelModel.starsCount = 2;
+    }
     public void LooseLevel()
     {
         if (!_levelModel.completed)
@@ -56,14 +60,16 @@ public class LevelController : MonoBehaviour
 
     }
 
-    public void CollectStar()
-    {
-        onCollectStar();
-        _levelModel.starsCount = 2;
-    }
 
     public int EarnedMoney()
     {
         return _moneyForStars[Mathf.Min(_levelModel.starsCount - 1, 2)];
+    }
+
+    int st = 0;
+    public void AddStar()
+    {
+        ++st;
+        InformationAboutLevels.SetStarsCount(_index, st);
     }
 }

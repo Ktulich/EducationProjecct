@@ -11,6 +11,7 @@ public class WinMenuViewer : MonoBehaviour
 
     void Start()
     {
-        
+        Utility.ApplyStars(_starsImages, LevelController.Instance._levelModel.starsCount, _starSprite);
+        _coinText.text = LevelController.Instance.EarnedMoney() + "$";
     }
 }

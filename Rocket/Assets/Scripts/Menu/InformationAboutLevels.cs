@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InformationAboutLevels : MonoBehaviour
+public static class InformationAboutLevels
 {
     public static bool CheckIsOpened(int index)
     {

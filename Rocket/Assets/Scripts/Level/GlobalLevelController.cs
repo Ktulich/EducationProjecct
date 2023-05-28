@@ -23,7 +23,17 @@ public class GlobalLevelController : MonoBehaviour
 
     public SceneField Next()
     {
-        return _levels[_levels.FindIndex((x) => SceneManager.GetActiveScene().name.Equals(x.SceneName)) + 1];
+        //return _levels[_levels.FindIndex((x) => SceneManager.GetActiveScene().name.Equals(x.SceneName)) + 1];
+
+        for (int level = 0; level < _levels.Count; level++)
+        {
+            if (_levels[level].SceneName == SceneManager.GetActiveScene().name)
+            {
+                return _levels[level + 1];
+            }
+        }
+
+        return null;
     }
 
     public int GetIndex()

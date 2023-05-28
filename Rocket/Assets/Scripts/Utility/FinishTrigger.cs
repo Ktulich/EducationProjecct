@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FinishTrigger : MonoBehaviour
+public class FinishTrigger : BaseTrigger
 {
     [SerializeField] private FinishSlider m_FinishSlider = null;
     private int _counterLegOfRocket = 2;
